@@ -10,4 +10,8 @@ Using confidence intervals and data analysis we can predict maximum and minimum 
 
 ### Video
 
+[Youtube Video](https://youtu.be/7peQjqGSvAg)
+
 ### Blog
+
+[Medium Blog](https://link.medium.com/ckOzzRbBH9)
